@@ -1,0 +1,13 @@
+{
+    "name": "kehlanif-day30-hash/kehlanif-day30-md5",
+    "description": "test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hlh",
+            "email": "kehlani_flower@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
